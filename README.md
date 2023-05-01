@@ -1,5 +1,6 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=egg&text=Hi~&animation=twinkling)
 
+### Hi there 👋
 <!--
 **kimjihyeon-angela/kimjihyeon-angela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
