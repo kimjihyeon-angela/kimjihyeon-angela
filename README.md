@@ -17,4 +17,16 @@ Here are some ideas to get you started:
 -->
 
 [![JiHyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjihyeon-angela)](https://github.com/kimjihyeon-angela/github-readme-stats)
-<a href="https://github.com/kimjihyeon-angela/pknu-StudyPython-2023" target="_blank"><img src="https://img.shields.io/badge/white?style=flat&logo=python&logoColor=#3776AB"/></a>
+<!--python-->
+<a href="https://github.com/kimjihyeon-angela/pknu-StudyPython-2023" target="_blank">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+</a>
+<!--MySQL-->
+<a href="https://github.com/kimjihyeon-angela/pknu-iot-database-2023" target="_blank">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+</a>
+<!--C Sharp-->
+<a href="https://github.com/kimjihyeon-angela/pknu-basic-CSharp-2023" target="_blank">
+  <img src="https://img.shields.io/badge/csharp-239120?style=for-the-badge&logo=C Sharp&logoColor=white">
+</a>
+
